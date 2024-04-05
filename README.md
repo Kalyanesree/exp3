@@ -20,7 +20,7 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin
 
 Carry = AB + ACin + BCin
 
-image
+![full adder](https://github.com/Kalyanesree/exp3/assets/163311552/726a5712-a62b-4b49-aa54-a38d9ca7d1d5)
 
 Figure -1 FULL ADDER
 
