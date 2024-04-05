@@ -32,7 +32,14 @@ A full subtractor is a combinational circuit that performs subtraction involving
 
 
 Truthtable
+
+FULL ADDER
 ![adder table](https://github.com/Kalyanesree/exp3/assets/163311552/114f9122-319d-4db0-9bf1-854b4bdcdbc7)
+
+FULL SUBTRACTOR
+![subtractor table](https://github.com/Kalyanesree/exp3/assets/163311552/1a824f88-12a6-4b7d-8f2f-6341d018836c)
+
+
 
 Procedure
 
@@ -40,11 +47,29 @@ Write the detailed procedure here
 
 Program:
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber: */
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+FULL ADDER
+![adder program](https://github.com/Kalyanesree/exp3/assets/163311552/eb05f4f2-932e-4696-8832-f57fd7215168)
+
+FULL SUBTRACTOR
+![subtractor program](https://github.com/Kalyanesree/exp3/assets/163311552/0454dd1e-e6d6-40cd-a5f5-b0dcd17948a6)
+
+
+Developed by: KALYANE SREE M                RegisterNumber: 212222050028
 
 RTL Schematic
+FULL ADDER 
+![adder diagram](https://github.com/Kalyanesree/exp3/assets/163311552/7a411565-e231-44ca-90e2-e933cf7b5acc)
+
+FULL SUBTRACTOR
+![subtractor diagram](https://github.com/Kalyanesree/exp3/assets/163311552/8abcdc36-445d-4730-aca3-b854f4a4286e)
+
+
 
 Output Timing Waveform
+
+![waveform](https://github.com/Kalyanesree/exp3/assets/163311552/aecb08ef-0645-4f36-9057-dc543e28a6f1)
+
 
 Result:
 
