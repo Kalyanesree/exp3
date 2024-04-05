@@ -28,7 +28,7 @@ Full Subtractor
 
 A full subtractor is a combinational circuit that performs subtraction involving three bits, namely minuend, subtrahend, and borrow-in . It accepts three inputs: minuend, subtrahend and a borrow bit and it produces two outputs: difference and borrow.
 
-image
+![full subtractor](https://github.com/Kalyanesree/exp3/assets/163311552/2009147a-9589-4234-9045-5fef08e9054f)
 
 Diff = A ⊕ B ⊕ Bin
 
