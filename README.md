@@ -30,11 +30,9 @@ A full subtractor is a combinational circuit that performs subtraction involving
 
 ![full subtractor](https://github.com/Kalyanesree/exp3/assets/163311552/2009147a-9589-4234-9045-5fef08e9054f)
 
-Diff = A ⊕ B ⊕ Bin
-
-Borrow out = A'Bin + A'B + BBin
 
 Truthtable
+![adder table](https://github.com/Kalyanesree/exp3/assets/163311552/114f9122-319d-4db0-9bf1-854b4bdcdbc7)
 
 Procedure
 
