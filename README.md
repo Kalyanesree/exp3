@@ -1,6 +1,6 @@
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
+**Implementation-of-Full-Adder-and-Full-subtractor-circuit**
 
-AIM:
+**AIM:**
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
@@ -31,17 +31,19 @@ A full subtractor is a combinational circuit that performs subtraction involving
 ![full subtractor](https://github.com/Kalyanesree/exp3/assets/163311552/2009147a-9589-4234-9045-5fef08e9054f)
 
 
-Truthtable
+**Truthtable**
 
 FULL ADDER
+
 ![adder table](https://github.com/Kalyanesree/exp3/assets/163311552/114f9122-319d-4db0-9bf1-854b4bdcdbc7)
 
 FULL SUBTRACTOR
+
 ![subtractor table](https://github.com/Kalyanesree/exp3/assets/163311552/1a824f88-12a6-4b7d-8f2f-6341d018836c)
 
 
 
-Procedure
+**Procedure**
 
 1)Create a New Project: *Open Quartus and create a new project by selecting "File" > "New Project Wizard." *Follow the wizard's instructions to set up your project, including specifying the project name, location, and target device (FPGA).
 2)Create a New Design File: *Once the project is created, right-click on the project name in the Project Navigator and select "Add New File." *Choose "Verilog HDL File" or "VHDL File,"depending on your chosen hardware description language.
@@ -51,23 +53,27 @@ Procedure
 necessary. *View the RTL diagram.
 6)Verification: *Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF". *Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All. *Give the Input Combinations according to the Truth Table and then simulate the Output Waveform.
 
-Program:
+**Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 FULL ADDER
+
 ![adder program](https://github.com/Kalyanesree/exp3/assets/163311552/eb05f4f2-932e-4696-8832-f57fd7215168)
 
 FULL SUBTRACTOR
+
 ![subtractor program](https://github.com/Kalyanesree/exp3/assets/163311552/0454dd1e-e6d6-40cd-a5f5-b0dcd17948a6)
 
 
 Developed by: KALYANE SREE M                RegisterNumber: 212222050028
 
 RTL Schematic
-FULL ADDER 
+
+FULL ADDER
+
 ![adder diagram](https://github.com/Kalyanesree/exp3/assets/163311552/7a411565-e231-44ca-90e2-e933cf7b5acc)
 
 FULL SUBTRACTOR
+
 ![subtractor diagram](https://github.com/Kalyanesree/exp3/assets/163311552/8abcdc36-445d-4730-aca3-b854f4a4286e)
 
 
